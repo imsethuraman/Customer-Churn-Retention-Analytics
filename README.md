@@ -42,28 +42,19 @@ Inactive Customers: 1350
 KPI overview
 Churn distribution
 Revenue impact
-
 <img width="1292" height="906" alt="Picture1" src="https://github.com/user-attachments/assets/cb6d728a-b8e5-482e-ab60-693a47e1d446" />
-
-
 
 2. Customer Behavior
 Usage vs churn
 Activity analysis
 Support impact
-
 <img width="1296" height="908" alt="Picture2" src="https://github.com/user-attachments/assets/31fa3d63-41ef-4d1d-b130-295fb88506f1" />
-
 
 3. Risk Analysis
 Risk segmentation
 Payment impact
 Revenue at risk
-
-
 <img width="1296" height="904" alt="Picture3" src="https://github.com/user-attachments/assets/be6affc4-1bcc-4c96-be7f-c4754abda9aa" />
-
-
 
 🚀 Business Recommendations
 
